@@ -1,4 +1,4 @@
-from helpers import gera_grid, renderiza_grid, desenha_grid, atualiza_matrix
+from helpers import gera_grid, renderiza_grid, desenha_grid, atualiza_matriz
 import os
 from time import sleep
 
@@ -9,7 +9,7 @@ def main():
     try:
         while True:
             desenha_grid(grid)
-            grid = atualiza_matrix(grid)
+            grid = atualiza_matriz(grid)
             sleep(0.3)
             os.system('clear')
     except KeyboardInterrupt:
