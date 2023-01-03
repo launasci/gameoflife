@@ -5,15 +5,9 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Use para rodar o jogo
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Depois que estiver com o projeto rodando é só apertar iniciar :) 
