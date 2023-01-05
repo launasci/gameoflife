@@ -6,4 +6,5 @@ educativos no projeto BuserTech.
 Como o jogo foi feito em duas linguagens dentro do diretorio principal temos dois sub-diretorios para rodar o jogo, seja em qualquer um das duas linguagens disponiveis, é preciso estar no sub-diretorio correto! Dentro dele vai existir um readme com instruções. Divirta-se!
 
 
-
+#### Deploy vue:
+O link da versão em vue: https://lifeofgamevue.netlify.app/
